@@ -3,7 +3,7 @@
 <html>
   <style>
     h1 {
-      color: #blue;
+      color: blue;
     }
   </style>
   <center><h1><bold>This is a test</center></h1></bold>
